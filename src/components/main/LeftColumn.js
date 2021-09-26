@@ -52,6 +52,7 @@ const LeftColumn = () => {
             target="_blank"
             rel="noreferrer"
             className="see-more"
+            title="vá para a página da corebiz"
           >
             Veja Mais <span className="arrow"></span>
           </a>
