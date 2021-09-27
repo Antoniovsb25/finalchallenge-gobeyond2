@@ -22,3 +22,7 @@ Utilize o comando `npm start` no terminal para abrir o projeto em [http://localh
 - [X] Melhora de performance
 
 ## Link do deploy na vercel: https://finalchallenge-gobeyond2-av.vercel.app/
+
+## Informações de performance, segundo site https://web.dev/
+
+<img src="public/images/performance.png">
