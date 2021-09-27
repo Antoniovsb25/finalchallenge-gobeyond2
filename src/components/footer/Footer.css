@@ -58,6 +58,12 @@
   margin-inline-end: 0px;
 }
 
+.logo-preta {
+    margin-bottom: 10px;
+    width: 80%;
+    height: 80%;
+}
+
 @media (min-width: 60em) {
   .footer {
     flex-direction: row;

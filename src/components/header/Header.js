@@ -12,7 +12,7 @@ const Header = () => {
   return (
     <header className="header">
       <div className="logo-and-hamburguer">
-        <h1>corebiz.</h1>
+        <img className="logo-branca" src="images/logo-branca.svg" alt="logo-branco" />
         <div className="bars-container" onClick={toggleNavBar}>
           <div className="bars"></div>
           <div className="bars"></div>

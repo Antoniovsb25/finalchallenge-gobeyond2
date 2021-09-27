@@ -40,7 +40,14 @@
 .see-more:hover {
   background: #afafaf;
 }
-
+.arrow {
+    width: 15px;
+    height: 15px;
+}
+.arrow-right {
+    width: 15px;
+    height: 15px;
+}
 .title {
   font-size: 40px;
   font-weight: bold;

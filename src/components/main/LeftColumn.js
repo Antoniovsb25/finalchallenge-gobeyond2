@@ -54,7 +54,7 @@ const LeftColumn = () => {
             className="see-more"
             title="vá para a página da corebiz"
           >
-            Veja Mais <span className="arrow"></span>
+            Veja Mais <span className="arrow"><img className="arrow-right" src="images/arrow-right.svg" alt="nextpage" /></span>
           </a>
         </div>
         <div className="card-container">
